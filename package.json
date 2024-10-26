@@ -1,0 +1,23 @@
+{
+  "name": "react-component-library",
+  "version": "0.0.1",
+  "description": "react component library",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mistacarta/react-component-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mistacarta/react-component-library/issues"
+  },
+  "homepage": "https://github.com/mistacarta/react-component-library#readme",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  },
+  "peerDependencies": {
+    "react": ">=16"
+  }
+}
